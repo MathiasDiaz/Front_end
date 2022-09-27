@@ -19,7 +19,7 @@ body {
     gap: 10px;
     grid-template: 
     "encabezado" 100px
-    "navegacion" 50px
+    "navegacion" 180px
     "articulo" auto
     "pie" 100px; 
 }
@@ -49,7 +49,7 @@ color: white;
         "encabezado encabezado encabezado" 100px
         "navegacion articulo   articulo  " auto
         "pie        pie        pie       " 50px / 
-         50px      auto           50px;
+         150px      auto           150px;
     }
     }
     
